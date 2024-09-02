@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.888b0a8e.css",
+    "main.js": "/static/js/main.c6285e1d.js",
+    "static/media/bacgroundImg.jpg": "/static/media/bacgroundImg.dba0ee742b84050031c5.jpg",
+    "static/media/blockItem.jpg": "/static/media/blockItem.838b8f0a232ae594108c.jpg",
+    "static/media/blockItem2.jpg": "/static/media/blockItem2.6c56095937c7dfacc6e7.jpg",
+    "static/media/footerImg.jpg": "/static/media/footerImg.bd5db96196b1f735927f.jpg",
+    "static/media/brendsLogo.svg": "/static/media/brendsLogo.05d39dc2d4f8c78c6a62fb8d783595a1.svg",
+    "static/media/watch.jpg": "/static/media/watch.eb6a5120b856b3448e92.jpg",
+    "static/media/phone.svg": "/static/media/phone.3bb4eb1998a25e657d307722c6f95b15.svg",
+    "static/media/basket.svg": "/static/media/basket.6d9c54b482fef5c85edcff82a85d3a49.svg",
+    "static/media/search.svg": "/static/media/search.e526d5ae66ee64c0e2aae1c5d782e88b.svg",
+    "index.html": "/index.html",
+    "static/media/log-in.svg": "/static/media/log-in.8f00960acf82cef79855b2078f788758.svg",
+    "main.888b0a8e.css.map": "/static/css/main.888b0a8e.css.map",
+    "main.c6285e1d.js.map": "/static/js/main.c6285e1d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.888b0a8e.css",
+    "static/js/main.c6285e1d.js"
+  ]
+}
